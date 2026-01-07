@@ -1,0 +1,2 @@
+This project uses Cyclistic/Divvy public bike-share trip data provided by Motivate International Inc.
+Note: Raw datasets are not included in this repository due to file size. The analysis was performed using preprocessed RDS files.
